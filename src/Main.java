@@ -68,5 +68,4 @@ public class Main {
         System.out.println("Если в компании работает " + numberOfWorker + " человека, то всего " + hoursPerWorker1 + " часа работы может быть поделено между сотрудниками.");
 
     }
-
     }
